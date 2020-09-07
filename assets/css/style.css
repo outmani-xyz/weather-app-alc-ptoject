@@ -1,3 +1,14 @@
 body{
     font-family: 'Ubuntu';
+    margin-top: 15px;
+}
+
+.card{
+    box-shadow: 0 0 2px black;
+    border-radius: 5px;
+    padding:10px;
+}
+
+.card-list{
+    margin: 10px 0;
 }
